@@ -3,7 +3,7 @@
 from distutils.core import setup
 
 setup(name='pigpio',
-      version='1.78',
+      version='1.79',
       author='joan',
       author_email='joan@abyz.me.uk',
       maintainer='joan',
